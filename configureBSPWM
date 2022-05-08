@@ -1,0 +1,11 @@
+#! /bin/bash
+
+cp -R $HOME/Documents/dotfilesArch/2_DesktopGUI/X11 $HOME/.config/
+cp -R $HOME/Documents/dotfilesArch/2_DesktopGUI/alacritty $HOME/.config/
+cp -R $HOME/Documents/dotfilesArch/2_DesktopGUI/bspwm $HOME/.config/
+cp -R $HOME/Documents/dotfilesArch/2_DesktopGUI/init_session $HOME/.config/
+cp -R $HOME/Documents/dotfilesArch/2_DesktopGUI/polybar $HOME/.config/
+cp -R $HOME/Documents/dotfilesArch/2_DesktopGUI/sxhkd $HOME/.config/
+cp -R $HOME/Documents/dotfilesArch/2_DesktopGUI/zsh $HOME/.config/
+
+#cp -R picom $HOME/.config
