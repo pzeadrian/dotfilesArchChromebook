@@ -1,0 +1,3 @@
+# DE
+sxhkd &
+exec bspwm

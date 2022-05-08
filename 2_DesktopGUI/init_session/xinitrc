@@ -1,0 +1,6 @@
+numlockx &
+udiskie &
+
+sxhkd &
+exec bspwm
+

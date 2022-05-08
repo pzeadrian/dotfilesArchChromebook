@@ -1,0 +1,4 @@
+You should run some commands for leave this xinitrc as the default.
+-->
+rm ~/.xinitrc
+ln -s $HOME/.config/init_session/xinitrc ~/.xinitrc
