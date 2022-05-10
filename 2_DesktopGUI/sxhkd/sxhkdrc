@@ -13,7 +13,7 @@ mod4 + Return
 # program launcher
 mod4 + @space
 #rofi -show drun
-	dmenu_run -fn "Ubuntu-10" -sb "#88c0d0" -sf "#2e3440" -nb "#2e3440"
+	dmenu_run -fn "Ubuntu-10" -sb "#bd93f9" -sf "#282a36" -nb "#282a36"
 
 # Tab Switcher
 alt + Tab
